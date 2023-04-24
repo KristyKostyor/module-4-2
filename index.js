@@ -1,8 +1,8 @@
 let nameProduct = "Toyta Camry";
-let quantityProduct = 3;
-let categoryProduct = "Cars";
-let priceProduct = 50000;
-let totalSum = quantityProduct * priceProduct;
+const quantityProduct = 3;
+const categoryProduct = "Cars";
+const priceProduct = 50000;
+const totalSum = quantityProduct * priceProduct;
 
 console.log(` Наименование товара:${nameProduct}`);
 console.log(`Общая стоимость товара: ${totalSum}$`);
