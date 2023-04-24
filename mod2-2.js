@@ -1,4 +1,4 @@
-const userName = prompt("Здравствуйте, как Вас зовут?");
+/*const userName = prompt("Здравствуйте, как Вас зовут?");
     alert(`Добро пожаловать, ${userName}`);
 const productName = prompt("Наименование товара");
     alert (`Вы выбрали ${productName}`);
@@ -21,4 +21,4 @@ else {
 };
 };
 alert(`${userName}, Вы выбрали ${productName}, категория: ${category}, итоговая стоимость: ${price * amount}`);
-alert(`До свидания, ${userName}`);
+alert(`До свидания, ${userName}`);*/
